@@ -29,6 +29,8 @@ The `endSlide` method has also two arguments:
 - `notes` - notes which should be displayed on the created Slide
 - `shownextnotes` - show the notes of the next slide in the notes of the current slide
 
+> Note: You need to use the `-w, --write_file` flag otherwise it will throw an error. Pull-requests are welcome.
+
 ### Example
 
 ```python
