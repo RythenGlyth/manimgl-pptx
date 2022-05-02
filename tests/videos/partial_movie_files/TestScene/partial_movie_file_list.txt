@@ -1,0 +1,6 @@
+file 'D:/Coding/Python/manimlib-pptx/tests/videos/partial_movie_files/TestScene/00000.mp4'
+file 'D:/Coding/Python/manimlib-pptx/tests/videos/partial_movie_files/TestScene/00001.mp4'
+file 'D:/Coding/Python/manimlib-pptx/tests/videos/partial_movie_files/TestScene/00002.mp4'
+file 'D:/Coding/Python/manimlib-pptx/tests/videos/partial_movie_files/TestScene/00003.mp4'
+file 'D:/Coding/Python/manimlib-pptx/tests/videos/partial_movie_files/TestScene/00004.mp4'
+file 'D:/Coding/Python/manimlib-pptx/tests/videos/partial_movie_files/TestScene/00005.mp4'

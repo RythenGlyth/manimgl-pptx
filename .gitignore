@@ -1,0 +1,6 @@
+poetry.lock
+__pycache__/
+media/
+pptx/
+temp/
+dist/
